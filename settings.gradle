@@ -1,0 +1,2 @@
+rootProject.name = "AppUseTracker2"
+include ':app'
